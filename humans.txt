@@ -4,8 +4,12 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+<<<<<<< HEAD
 	
 
+=======
+   dhananjay
+>>>>>>> simple-changes
 # THANKS
 
     <name>
